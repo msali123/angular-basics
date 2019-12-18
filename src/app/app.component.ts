@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'first-test-project';
+  varname = "This variable is an example of binding";
 }
+
+
