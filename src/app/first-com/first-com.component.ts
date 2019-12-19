@@ -7,9 +7,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FirstComComponent implements OnInit {
 
+
   constructor() { }
 
   ngOnInit() {
+
+ 
+  }
+
+  ShowDIV()
+  {
   }
 
 }
